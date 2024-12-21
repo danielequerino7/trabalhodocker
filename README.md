@@ -34,7 +34,9 @@ Para obter a imagem da aplicação, execute o seguinte comando no terminal:
 
 ```bash
 docker pull danielequerino/trabalhodocker
+```
 
 ### 2. **Como rodar o container**
 ```bash
 docker run -p 3000:3000 danielequerino/trabalhodocker
+```
